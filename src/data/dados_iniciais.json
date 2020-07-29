@@ -1,0 +1,165 @@
+{
+  "categorias": [
+    {
+      "titulo": "Aprenda Ciência",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#00d4ff",
+      "link_extra": {
+        "text": "Leia, descubra, aprenda",
+        "url": "https://ceticismo.net/"
+      },
+      "videos": [
+        {
+          "titulo": "A Programação e a Vida | Nerdologia Tech #ScienceIsLife",
+          "url": "https://www.youtube.com/watch?v=ze0qDsJGOBM&list=PLyRcl7Q37-DU9HA99_Ob9Vh7M0nQw8pNV&index=38"
+        },
+        {
+          "titulo": "Imunidade de Rebanho",
+          "url": "https://www.youtube.com/watch?v=KjFt7jPSJ2M"
+        },
+        {
+          "titulo": "O Que é a Luz?",
+          "url": "https://www.youtube.com/watch?v=IXxZRZxafEQ"
+        },
+        {
+          "titulo": "Qual é a Maior Coisa no Universo?",
+          "url": "https://www.youtube.com/watch?v=FJB7gbjiJKw"
+        },
+        {
+          "titulo": "Desmistificando: Terra Plana",
+          "url": "https://www.youtube.com/watch?v=gjj-aa7vGDM"
+        }  
+      ]
+    },
+    {
+      "titulo": "Música",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Ouça Mais",
+        "url": "https://radiosaovivo.net/globo-salvador/"
+      },
+      "videos": [
+        {
+          "titulo": "The Black Keys | Lonely Boy",
+          "url": "https://www.youtube.com/watch?v=a_426RiwST8"
+        },
+        {
+          "titulo": "Jason Mraz | You Can Rely On Me",
+          "url": "https://www.youtube.com/watch?v=H600M2_juM4"
+        },
+        {
+          "titulo": "Bruno Mars | That's What I Like",
+          "url": "https://www.youtube.com/watch?v=PMivT7MJ41M"
+        },
+        {
+          "titulo": "Raul Seixas | O Dia em Que a Terra Parou",
+          "url": "https://www.youtube.com/watch?v=yYtx_QnSRaQ"
+        }
+      ]
+    },
+    {
+      "titulo": "Desenhos Animados",
+      "cor": "#9cd33b",
+      "videos": [
+        {
+          "titulo": "Patolino o Mago",
+          "url": "https://www.youtube.com/watch?v=pAGrykAxkB4"
+        },
+        {
+          "titulo": "Caverna do Dragão",
+          "url": "https://www.youtube.com/watch?v=gHaBxnCNbHE"
+        },
+        {
+          "titulo": "Pica Pau",
+          "url": "https://www.youtube.com/watch?v=Hs5f37ktMqY"
+        },
+        {
+          "titulo": "Rick And Morty",
+          "url": "https://www.youtube.com/watch?v=-kdltv_CSHE"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "#f26906",
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "Gattaca",
+          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+        },
+        {
+          "titulo": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+        },
+        {
+          "titulo": "Feitiço do Tempo",
+          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "#ff0000",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#5c47f6",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
